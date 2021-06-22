@@ -25,21 +25,3 @@ Current temperature   : 25.25 deg C
 Current weather desc  : overcast clouds
 Current Humidity      : 75 %
 Current wind speed    : 5.3 kmph
-
--------------------------------------------------------------
-Weather Stats for - DHULE || 22 Jun 2021 | 08:55:38 PM
--------------------------------------------------------------
-
-Current temperature   : 30.76 deg C
-Current weather desc  : overcast clouds
-Current Humidity      : 49 %
-Current wind speed    : 7.15 kmph
-
--------------------------------------------------------------
-Weather Stats for - DHULE || 22 Jun 2021 | 08:55:47 PM
--------------------------------------------------------------
-
-Current temperature   : 30.76 deg C
-Current weather desc  : overcast clouds
-Current Humidity      : 49 %
-Current wind speed    : 7.15 kmph
